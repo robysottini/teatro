@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon May 15 17:25:57 ART 2017:
+ Iniciando instancia a816c00e-015c-0dc9-f149-000004f7ac60 de Derby, versión The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): 
+en el directorio de base de datos /home/roby/NetBeansProjects/Teatro/teatroDB con el cargador de clases sun.misc.Launcher$AppClassLoader@511d50c0
+Cargado desde file:/usr/lib/jvm/java-8-oracle/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=/home/roby/NetBeansProjects/Teatro
+os.name=Linux
+os.arch=amd64
+os.version=3.16.0-4-amd64
+derby.system.home=null
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
